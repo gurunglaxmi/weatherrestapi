@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.Json;
 
-namespace LG.MyRestApi.Helpers
+namespace LgParadise.WeatherApi.Helpers
 {
     public class SnakeCaseNamingPolicy : JsonNamingPolicy
     {

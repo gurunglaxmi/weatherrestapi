@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 
 
-namespace LG.MyRestApi.Controllers
+namespace LgParadise.WeatherApi.Controllers
 {
     [ApiController]
     [Route("/api/v1/weather")]

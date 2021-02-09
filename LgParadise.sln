@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.808.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LG.MyRestApi", "LG.MyRestApi\LG.MyRestApi.csproj", "{E38DAFAC-B238-4C5F-8C2F-825F19A4603B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LgParadise.WeatherApi", "LgParadise.WeatherApi\LgParadise.WeatherApi.csproj", "{E38DAFAC-B238-4C5F-8C2F-825F19A4603B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
